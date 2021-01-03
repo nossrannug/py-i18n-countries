@@ -2,3 +2,4 @@ build/
 dist/
 **/*.pyc
 .vscode/
+**/py_i18n_countries.egg-info
