@@ -9,7 +9,7 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 
 setup(
     name="py-i18n-countries",
-    version="0.1.0",
+    version="0.1.1",
     author="Gunnar Sv Sigurbjörnsson",
     author_email="gunnar.sigurbjornsson@gmail.com",
     description="Mapping for ISO-3166-1 alpha-2 codes to country names and nationalities",
@@ -33,7 +33,7 @@ setup(
     # This field corresponds to the "Description-Content-Type" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#description-content-type-optional
     long_description_content_type="text/markdown",  # Optional (see note above)
-    url="",
+    url="https://github.com/nossrannug/py-i18n-countries",
     license="MIT",
     keywords="country nationality iso 3166-1",
     classifiers=[
